@@ -1,0 +1,8 @@
+Origin: Ball00n
+Label: jc0z and GreenBalloon, LLC
+Suite: stable
+Version: 1.0
+Codename: ball00n
+Architectures: iphoneos-arm
+Components: main
+Description: The Official Ball00n Repo.
