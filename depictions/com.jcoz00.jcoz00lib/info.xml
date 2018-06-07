@@ -1,0 +1,23 @@
+<package>
+	<id>com.jcoz00.jcoz00lib</id>
+	<name>jcoz00Lib</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<descriptionlist>
+		<description>My hand-coded library for my own development/organization. Necessary for most of my packages.</description>
+		<description><![CDATA[
+		Commands:<br/> 
+		jcoz00lib-list : Lists all of my packages that you have installed.<br/>
+		jcoz00lib-purge : Purges the directory for potential fixing.<br/>
+		jcoz00lib-restore : Undo a purge.<br/>
+		]]>
+		</description>
+	</descriptionlist>
+	<changelog>
+		<change>Cleaned up some messy scripting.</change>
+	</changelog>
+</package>

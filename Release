@@ -1,8 +1,8 @@
-Origin: Ball00n
-Label: jc0z and GreenBalloon, LLC
+Origin: jcoz00’s Repo
+Label: jcoz00’s Repo
 Suite: stable
 Version: 1.0
-Codename: ball00n
+Codename: jcoz00repo
 Architectures: iphoneos-arm
 Components: main
-Description: The Official Ball00n Repo.
+Description: jcoz00’s Cydia repository.

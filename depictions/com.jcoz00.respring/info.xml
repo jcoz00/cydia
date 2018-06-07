@@ -1,0 +1,19 @@
+<package>
+	<id>com.jcoz00.respring</id>
+	<name>Respring</name>
+	<version>1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>jcoz00Lib</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Easily respring your device from the command line! Just type "respring".</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>

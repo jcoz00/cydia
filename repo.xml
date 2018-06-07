@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/jcoz00</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+		<link>
+			<name>My Webiste</name>
+			<url>http://jcoz00.com</url>
+			<iconclass>glyphicon glyphicon-user</iconclass>
+		</link>
+	</footerlinks>
+</repo>
