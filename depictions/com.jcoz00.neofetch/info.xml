@@ -8,10 +8,10 @@
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>jcoz00Lib</package>
+		<package>bash, coreutils, coreutils-bin, darwintools, system-cmds, gawk, grep, jcoz00Lib</package>
 	</dependencies>
 	<descriptionlist>
-		<description>Easily respring your device from the command line! Just type "respring".</description>
+		<description>A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release</change>
