@@ -1,93 +1,42 @@
 Package: com.jcoz00.jcoz00lib
 Version: 1.2
 Section: Development
-Maintainer: jcoz00 <jcoz00@jcoz00.com>
+Maintainer: James Cozzi <jamescozzi00@gmail.com>
 Architecture: iphoneos-arm
 Filename: Files//Development/jcoz00Lib/com.jcoz00.jcoz00lib_1.2_iphoneos-arm.deb
-Size: 1232
-MD5sum: 6bb57f3654f49a1c3151b53174ad9dd5
+Size: 1990
+MD5sum: e3837ebfae066c24a1eeb66713c63f1c
 Description: My hand-coded library for my own development/organization. Necessary for most of my packages.
 Name: jcoz00Lib
-Author: jcoz00 <jcoz00@jcoz00.com>
-Depiction: http://jcoz00.com/repo/depictions/?p=com.jcoz00.jcoz00lib
+Author: James Cozzi <jamescozzi00@gmail.com>
+Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.jcoz00lib
 
-Package: com.jcoz00.nyancatnc
-Version: 1.2
+Package: com.jcoz00.neofetch
+Version: 3.0.1-3
 Section: Utilities
-Maintainer: jcoz00 <jcoz00@jcoz00.com>
-Depends: firmware (>= 10.0), com.jcoz00.recommendedtools, com.jcoz00.jcoz00lib
+Maintainer: James Cozzi <jamescozzi00@gmail.com>
+Depends: bash, coreutils, coreutils-bin, darwintools, system-cmds, gawk, grep, jcoz00Lib
 Architecture: iphoneos-arm
-Filename: Files//Utilities/nyancatnc/com.jcoz00.nyancatnc_1.2_iphoneos-arm.deb
-Size: 371362
-Installed-Size: 0
-MD5sum: a2afb5888d74fd55de0e24cf14d4d320
-Description: Nyan Cat in your Notification Center!
-Name: NyanCatNC
-Author: Adam Bell <adam@adambell.ca>
-Depiction: http://jcoz00.com/repo/depictions/?p=com.jcoz00.nyancatnc
-Icon: file:///Applications/NyanCat.app/Icon.png
-
-Package: com.jcoz00.recommendedtools
-Version: 1.1.4
-Section: System
-Maintainer: jcoz00 <jcoz00@jcoz00.com>
-Depends: syslogcmdline, adv-cmds, apt, basic-cmds, bootstrap-cmds, bzip2, class-dump, coreutils, developer-cmds, diskdev-cmds, file-cmds, gawk, gdb, git, gzip, iokittools, less, make, nano, network-cmds, ldid, rsync, shell-cmds, system-cmds, com.ericasadun.utilities, top, uikittools, findutils, inetutils, diffutils, lsof, subversion, vim, xar, tar, patch, unrar, unzip, wget, whois, xml2, zip, p7zip, com.saurik.substrate.safemode, ruby, python, openssl, classpath, bash, adv-cmds, com.saurik.afc2d, applist, apr, apr-lib, apr-util, base, apt, apt7-key, apt7, apt7-lib, aptitude, berkeleydb, bootstrap-cmds, coreutils-bin, darwintools, dpkg, debianutils, gnupg, grep, lzma, ncurses, pam, pam-modules, profile.d, readline, sed, tar, com.saurik.patcyh, ws.hbang.common, curl, cycript, mobilesubstrate, org.coolstar.cctools, developer-cmds, file, sudo, file-cmds, com.a3tweaks.flipswitch, gettext, gdb, com.chpwn.iconsupport, inetutils, iokittools, org.coolstar.ld64, less, org.thebigboss.libcolorpicker, jp.ashikase.libcrashreport, libffi, net.mobileinnova.liblocation, jp.ashikase.libpackageinfo, libsigc++, libstatusbar, jp.ashikase.libsymbolicate, libxml2, libxml2-lib, lsof, neon, network-cmds, patch, pincrush, png, pngcrush, preferenceloader, com.rpetrich.rocketbootstrap, rsync, com.innoying.sbutils, sqlite3, sqlite3-lib, jp.ashikase.techsupport, uuid, expat, xml2, libactivator, com.jcoz00.jcoz00lib, afpfs-ng, glib, gcrypt, libgpg-error, inputproto, jamvm, javasqlite, kbproto, libpcap, mdnsresponder, ncftp, netatalk, netcat, nmap, net.tootallnate.node, pcre, php, pthread-stubs, rzip, screen, tiff, tree, x11, xau, xcb, xcb-proto, xextproto, xproto, xtrans, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs
-Architecture: iphoneos-arm
-Filename: Files//System/recommendedtools/com.jcoz00.recommendedtools_1.1.4_iphoneos-arm.deb
-Size: 1844
-MD5sum: 2fa89eee9765ddc33260e27b05dfeed0
-Description: My recommended tools. This installs a ton of dependencies that various packages use. Just install, sit back, and watch the beautiful scrolling white text flow across your screen.
-Name: jcoz00’s Recommended Tools
-Author: jcoz00 <jcoz00@jcoz00.com>
-Depiction: http://jcoz00.com/repo/depictions/?p=com.jcoz00.recommendedtools
+Filename: Files//Utilities/neofetch/com.jcoz00.neofetch.3.0.1_iphoneos-arm.deb
+Size: 61206
+MD5sum: 6f2d322c49335d5ffe2139700ad3e072
+Description: A fast, highly customizable system info script that supports Linux, MacOS, iOS, BSD, Solaris, Android, Haiku, GNU Hurd, MINIX, AIX and Windows (Cygwin/MSYS2/Windows 10 Linux subsystem)
+Name: Neofetch
+Author: Dylan Araps <dylan.araps@gmail.com>
+Homepage: https://jcoz00.github.io/repo
+Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.neofetch
 
 Package: com.jcoz00.respring
 Version: 1.1
 Section: System
-Maintainer: jcoz00 <jcoz00@jcoz00.com>
+Maintainer: James Cozzi <jamescozzi00@gmail.com>
 Depends: com.jcoz00.jcoz00Lib
 Architecture: iphoneos-arm
 Filename: Files//System/respring/com.jcoz00.respring_1.1_iphoneos-arm.deb
-Size: 1032
-MD5sum: b40149ee4162952a6c373048403fe7c3
+Size: 1142
+MD5sum: c578c47c1cb080dbd7d858bfb2a563bf
 Description: Easily respring your device from the command line! Just type "respring".
 Name: Respring
-Author: jcoz00 <jcoz00@jcoz00.com>
-Depiction: http://jcoz00.com/repo/depictions/?p=com.jcoz00.respring
-
-Package: coolstar.org
-Version: 0-2
-Section: Repositories
-Maintainer: CoolStar <coolstarorganization@gmail.com>
-Architecture: iphoneos-arm
-Filename: Files//Repositories/coolstar/coolstar.org.deb
-Size: 848
-MD5sum: e22c4927c3b026350ef854bf23ec763a
-Description: CoolStar’s Repo
-Name: CoolStar’s Source
-Author: CoolStar <coolstarorganization@gmail.com>
-
-Package: hackyouriphone.org
-Version: 0-1
-Section: Repositories
-Maintainer: iDevid <repo@hackyouriphone.org>
-Architecture: iphoneos-arm
-Filename: Files//Repositories/hackyouriphone/repo.hackyouriphone.org.deb
-Size: 848
-MD5sum: 6d7705cdbc284d8d5fdb21e117239890
-Description: HackYouriPhone
-Name: HackYouriPhone’s Source
-Author: HackYouriPhone <repo@hackyouriphone.org>
-
-Package: in-appstore.com
-Version: 0-1
-Section: Repositories
-Maintainer: ZonD80
-Architecture: iphoneos-arm
-Filename: Files//Repositories/in-appstore/system.in-appstore.com.deb
-Size: 848
-MD5sum: 2cce8ec0745916e9c478af33bf0a952d
-Description: In-AppStore.com Cydia Repository
-Name: In-AppStore’s Source
-Author: ZonD80
+Author: James Cozzi <jamescozzi00@gmail.com>
+Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.respring
 
