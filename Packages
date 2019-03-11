@@ -26,6 +26,62 @@ Author: Dylan Araps <dylan.araps@gmail.com>
 Homepage: https://jcoz00.github.io/repo
 Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.neofetch
 
+Package: com.jcoz00.recommendedtools
+Version: 2.0
+Section: System
+Maintainer: jcoz00 <jamescozzi00@gmail.com>
+Depends: com.cannathea.afc2d-arm64, applist, apt-key, apt7, libapt-pkg5.0, apt1.4, libapt, libassuan, base, berkeleydb, bash, bzip2, ca-certificates, ws.hbang.common, coreutils, coreutils-bin, curl, darwintools, dpkg, debianutils, diffutils, file, file-cmds, findutils, com.a3tweaks.flipswitch, libfragmentzip, gawk, gettext, git, gcrypt, libgmp10, gnupg, libgpg-error, gnutls, grep, gzip, htop, com.chpwn.iconsupport, com.jcoz00.jcoz00lib, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs, libksba, less, net.limneos.libbulletin, org.thebigboss.libcolorpicker, jp.ashikase.libcrashreport, com.creativesurvive.libcscolorpicker, libevent, libidn2, libirecovery, libnghttp2, jp.askikase.libpackageinfo, libplist, com.spark.libsparkapplist, libssh2, com.modmyi.libswift4, jp.askikase.libsymbolicate, libtasn1, libunistring, libzip, ldid, com.linusyang.localeutf8, lz4, lzma, make, nano, netcat, nettle, ncurses5-libs, ncurses, npth, com.conradkramer.open, openssh, libssl1.0, p11-kit, perl, preferenceloader, profile.d, readline, com.jcoz00.respring, com.rpetrich.rocketbootstrap, ruby, sed, shell-cmds, com.saurik.substrate.safemode, sudo, system-cmds, tar, jp.ashikase.techsupport, top, tsschecker, unrar, unzip, wget, expat, xz, zip, p7zip, com.mpg13.flashback, com.creaturecoding.crux, adv-cmds, basic-cmds, patch, network-cmds, iokittools, developer-cmds, screen, rsync, inetutils, lsof, vim, socat, com.autopear.installipa, bootstrap-cmds, syslogcmdline, com.ericasadun.utilities, com.innoying.sbutils, com.eswick.ondeviceconsole, org.thebigboss.cutils, xar, libxml2, com.thireus.untrustedhostsblocker9, net.angelxwind.appsyncunified
+Architecture: iphoneos-arm
+Filename: Files//System/RecommendedTools/com.jcoz00.recommendedtools_2.0_iphoneos-arm.deb
+Size: 1792
+MD5sum: 134bef6a52dd9ce1ebbf2636cf3ee3bc
+Description: My recommended tools. This installs a ton of dependencies that various packages use. Just install, sit back, and watch the beautiful scrolling white text flow across your screen.
+Name: Recommended Tools
+Author: jcoz00 <jamescozzi00@gmail.com>
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.recommendedtools
+
+Package: com.jcoz00.recommendedtweaks
+Version: 1.0
+Section: Tweaks
+Maintainer: jcoz00 <jamescozzi00@gmail.com>
+Depends: libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.ninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, net.tateu.calldismiss, com.jcoz00.jcoz00lib
+Architecture: iphoneos-arm
+Filename: Files//Tweaks/RecommendedTweaks/com.jcoz00.recommendedtweaks_1.0_iphoneos-arm.deb
+Size: 1166
+MD5sum: a2ef0de01bcfe3c4d5b29174b2053cec
+Description: My recommended tweaks.
+Name: Recommended Tweaks
+Author: jcoz00 <jamescozzi00@gmail.com>
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.recommendedtweaks
+
+Package: com.jcoz00.recommendedtweaksipx
+Version: 1.0
+Section: Tweaks
+Maintainer: jcoz00 <jamescozzi00@gmail.com>
+Depends: libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.ninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, com.cpdigitaldarkroom.barmoji, net.tateu.calldismiss, com.spark.nomoresmallapps, com.gilshahar7.pearlretry, com.dunkston.statusdnd, com.jcoz00.jcoz00lib
+Architecture: iphoneos-arm
+Filename: Files//Tweaks/RecommendedTweaksiPhoneX/com.jcoz00.recommendedtweaksipx_1.0_iphoneos-arm.deb
+Size: 1242
+MD5sum: b0572127cd123505f1e6c7797e2a7e77
+Description: My recommended tweaks for iPhone X.
+Name: Recommended Tweaks (iPhone X)
+Author: jcoz00 <jamescozzi00@gmail.com>
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.recommendedtweaksipx
+
+Package: com.jcoz00.recommendedutilities
+Version: 1.0
+Section: Utilities
+Maintainer: jcoz00 <jamescozzi00@gmail.com>
+Depends: crash-reporter, com.muirey03.cr4shed, com.julioverne.cydown, com.tigisoftware.filza64bit, com.exile90.icleanerpro, com.jcoz00.jcoz00lib, ws.hbang.newterm2, com.matchstic.reprovision
+Architecture: iphoneos-arm
+Filename: Files//Utilities/RecommendedUtilities/com.jcoz00.recommendedutilities_1.0_iphoneos-arm.deb
+Size: 982
+MD5sum: c886898e4b66681531fdb27b37c9ccee
+Description: My recommended utilities.
+Name: Recommended Utilities
+Author: jcoz00 <jamescozzi00@gmail.com>
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.recommendedutilities
+
 Package: com.jcoz00.respring
 Version: 1.1
 Section: System
@@ -39,4 +95,232 @@ Description: Easily respring your device from the command line! Just type "respr
 Name: Respring
 Author: James Cozzi <jamescozzi00@gmail.com>
 Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.respring
+
+Package: com.julioverne.repos
+Version: 0-1
+Section: Repositories
+Maintainer: juilioverne
+Architecture: iphoneos-arm
+Filename: Files//Repositories/julioverne/julioverne.deb
+Size: 858
+MD5sum: a0b6734a35309db82a52064f12b44511
+Description: juilioverne’s repos
+Name: juilioverne’s repos
+Author: juilioverne
+
+Package: creaturesurvive.github.io
+Version: 0-1
+Section: Repositories
+Maintainer: CreatureSurvive
+Architecture: iphoneos-arm
+Filename: Files//Repositories/creaturesurvive/creaturesurvive.deb
+Size: 824
+MD5sum: 4150a6f5e3c6740d8808c3e6fb671473
+Description: CreatureSurvive’s Repo
+Name: CreatureSurvive’s Repo
+Author: CreatureSurvive
+
+Package: cydia.angelxwind.net
+Version: 0-1
+Section: Repositories
+Maintainer: Karen (angelxwind)
+Architecture: iphoneos-arm
+Filename: Files//Repositories/angelxwind/angelxwind.deb
+Size: 824
+MD5sum: 838f7976ae355a7df75339bf2ab86d52
+Description: Karen’s Repo
+Name: Karen’s Repo
+Author: Karen (angelxwind)
+
+Package: dunkston.github.io
+Version: 0-1
+Section: Repositories
+Maintainer: dunkston
+Architecture: iphoneos-arm
+Filename: Files//Repositories/dunkston/dunkston.deb
+Size: 814
+MD5sum: a571af887e022e71c5b8d8a7c1890a4f
+Description: dunkston’s repo
+Name: dunkston’s repo
+Author: dunkston
+
+Package: flashbackios.github.io
+Version: 0-1
+Section: Repositories
+Maintainer: MPG13
+Architecture: iphoneos-arm
+Filename: Files//Repositories/flashback/flashback.deb
+Size: 816
+MD5sum: dd0e6f86fb4b9fd55d4ca6d0d269bcf8
+Description: FlashBack repo
+Name: FlashBack repo
+Author: MPG13
+
+Package: hackyouriphone.org
+Version: 0-1
+Section: Repositories
+Maintainer: iDevid <repo@hackyouriphone.org>
+Architecture: iphoneos-arm
+Filename: Files//Repositories/hackyouriphone/repo.hackyouriphone.org.deb
+Size: 848
+MD5sum: 6d7705cdbc284d8d5fdb21e117239890
+Description: HackYouriPhone
+Name: HackYouriPhone’s Source
+Author: HackYouriPhone <repo@hackyouriphone.org>
+
+Package: ib-soft.net.cydia.beta
+Version: 0-1
+Section: Repositories
+Maintainer: Ivano Bilenchi
+Architecture: iphoneos-arm
+Filename: Files//Repositories/ivanobilenchi/ivanobilenchi.deb
+Size: 830
+MD5sum: 7f412cdb579a76a9e9e981a33a5fb6b6
+Description: Ivano Bilenchi’s Beta Repo
+Name: Ivano Bilenchi’s Beta Repo
+Author: Ivano Bilenchi
+
+Package: petri.ch.repo
+Version: 0-1
+Section: Repositories
+Maintainer: repetrich
+Architecture: iphoneos-arm
+Filename: Files//Repositories/rpetrich/rpetrich.deb
+Size: 798
+MD5sum: d25cb551c6564c15076873b28fb8bec0
+Description: repetrich repo
+Name: repetrich repo
+Author: repetrich
+
+Package: repo.incendo.ws
+Version: 0-1
+Section: Repositories
+Maintainer: Matt Clarke
+Architecture: iphoneos-arm
+Filename: Files//Repositories/matchstic/matchstic.deb
+Size: 858
+MD5sum: dccab944f520fe8e56f61470e78d9028
+Description: Repository for Matchstick’s tweaks; some private beta stuff can also be found here
+Name: Matchstic’s repo
+Author: Matt Clarke
+
+Package: repo.nepeta.me
+Version: 0-1
+Section: Repositories
+Maintainer: Nepeta
+Architecture: iphoneos-arm
+Filename: Files//Repositories/nepeta/nepeta.deb
+Size: 802
+MD5sum: fd18a1476fe905ad63ababea79faa112
+Description: Nepeta’s repo
+Name: Nepeta’s repo
+Author: Nepeta
+
+Package: repo.thireus.com
+Version: 0-1
+Section: Repositories
+Maintainer: Thireus
+Architecture: iphoneos-arm
+Filename: Files//Repositories/thireus/thireus.deb
+Size: 800
+MD5sum: 282b85221c751ef94264f9c8afc378a7
+Description: Thireus Repository
+Name: Thireus Repository
+Author: Thireus
+
+Package: repo.xarold.com
+Version: 0-1
+Section: Repositories
+Maintainer: Xarold
+Architecture: iphoneos-arm
+Filename: Files//Repositories/xarold/xarold.deb
+Size: 796
+MD5sum: 94282c48136f9d1e0819c78db0e35505
+Description: Xarold Repo
+Name: Xarold Repo
+Author: Xarold
+
+Package: shiftcmdk.github.io
+Version: 0-1
+Section: Repositories
+Maintainer: shiftcmdk
+Architecture: iphoneos-arm
+Filename: Files//Repositories/shiftcmdk/shiftcmdk.deb
+Size: 814
+MD5sum: 39d288d1285243ee824ea2d59f3de30c
+Description: shiftcmdk’s repo
+Name: shiftcmdk’s repo
+Author: shiftcmdk
+
+Package: skitty.xyz
+Version: 0-1
+Section: Repositories
+Maintainer: Skitty
+Architecture: iphoneos-arm
+Filename: Files//Repositories/skitty/skitty.deb
+Size: 802
+MD5sum: 0a970b7fef32bfd28810ceec6285aa53
+Description: Skitty’s Repo
+Name: Skitty’s Repo
+Author: Skitty
+
+Package: skylerk99.github.io
+Version: 0-1
+Section: Repositories
+Maintainer: Skyler Kansala
+Architecture: iphoneos-arm
+Filename: Files//Repositories/skylerk99/skylerk99.deb
+Size: 826
+MD5sum: 8d139ca4abf9f5e279ea8ce12a645295
+Description: Skylerk99’s repo
+Name: Skylerk99’s repo
+Author: Skyler Kansala
+
+Package: sparkdev.me
+Version: 0-1
+Section: Repositories
+Maintainer: Spark
+Architecture: iphoneos-arm
+Filename: Files//Repositories/sparkdev/sparkdev.deb
+Size: 804
+MD5sum: 55661c3f5e913e05e9f5ece52f0cd3b1
+Description: SparkDev’s repo
+Name: SparkDev’s repo
+Author: Spark
+
+Package: steverolfe.com
+Version: 0-1
+Section: Repositories
+Maintainer: Steven Rolfe
+Architecture: iphoneos-arm
+Filename: Files//Repositories/chewmieser/chewmieser.deb
+Size: 820
+MD5sum: 8a222e5c7e6c0864df8689b86dadd59f
+Description: Chewmieser’s Repo
+Name: Chewmieser’s Repo
+Author: Steven Rolfe
+
+Package: tateu.net
+Version: 0-1
+Section: Repositories
+Maintainer: tateu (John Harris)
+Architecture: iphoneos-arm
+Filename: Files//Repositories/tateu/tateu.deb
+Size: 808
+MD5sum: add9fe35326b1af6a8df99f84261b2f8
+Description: tateu’s repo
+Name: tateu’s repo
+Author: tateu (John Harris)
+
+Package: tigisoftware.com
+Version: 0-1
+Section: Repositories
+Maintainer: TIGI Software
+Architecture: iphoneos-arm
+Filename: Files//Repositories/tigi/tigi.deb
+Size: 806
+MD5sum: cfd3b8e1116b645bfdbfb97ea1f06b50
+Description: TIGI Software Repo
+Name: TIGI Software
+Author: TIGI Software
 
