@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Repo
+title: Cydia APT Repository
 ---
 
 Welcome to my projects page! Feel free to explore!
