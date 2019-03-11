@@ -1,6 +1,6 @@
 <package>
 	<id>com.jcoz00.respring</id>
-	<name>Respring</name>
+<!-- 	<name>Respring</name> -->
 	<version>1.1</version>
 	<compatibility>
 		<firmware>
