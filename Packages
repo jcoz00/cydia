@@ -30,11 +30,11 @@ Package: com.jcoz00.recommendedtools
 Version: 2.0
 Section: System
 Maintainer: jcoz00 <jamescozzi00@gmail.com>
-Depends: com.cannathea.afc2d-arm64, applist, apt-key, apt7, libapt-pkg5.0, apt1.4, libapt, libassuan, base, berkeleydb, bash, bzip2, ca-certificates, ws.hbang.common, coreutils, coreutils-bin, curl, darwintools, dpkg, debianutils, diffutils, file, file-cmds, findutils, com.a3tweaks.flipswitch, libfragmentzip, gawk, gettext, git, gcrypt, libgmp10, gnupg, libgpg-error, gnutls, grep, gzip, htop, com.chpwn.iconsupport, com.jcoz00.jcoz00lib, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs, libksba, less, net.limneos.libbulletin, org.thebigboss.libcolorpicker, jp.ashikase.libcrashreport, com.creativesurvive.libcscolorpicker, libevent, libidn2, libirecovery, libnghttp2, jp.askikase.libpackageinfo, libplist, com.spark.libsparkapplist, libssh2, com.modmyi.libswift4, jp.askikase.libsymbolicate, libtasn1, libunistring, libzip, ldid, com.linusyang.localeutf8, lz4, lzma, make, nano, netcat, nettle, ncurses5-libs, ncurses, npth, com.conradkramer.open, openssh, libssl1.0, p11-kit, perl, preferenceloader, profile.d, readline, com.jcoz00.respring, com.rpetrich.rocketbootstrap, ruby, sed, shell-cmds, com.saurik.substrate.safemode, sudo, system-cmds, tar, jp.ashikase.techsupport, top, tsschecker, unrar, unzip, wget, expat, xz, zip, p7zip, com.mpg13.flashback, com.creaturecoding.crux, adv-cmds, basic-cmds, patch, network-cmds, iokittools, developer-cmds, screen, rsync, inetutils, lsof, vim, socat, com.autopear.installipa, bootstrap-cmds, syslogcmdline, com.ericasadun.utilities, com.innoying.sbutils, com.eswick.ondeviceconsole, org.thebigboss.cutils, xar, libxml2, com.thireus.untrustedhostsblocker9, net.angelxwind.appsyncunified
+Depends: com.cannathea.afc2d-arm64, applist, apt-key, apt7, libapt-pkg5.0, apt1.4, libapt, libassuan, base, berkeleydb, bash, bzip2, ca-certificates, ws.hbang.common, coreutils, coreutils-bin, curl, darwintools, dpkg, debianutils, diffutils, file, file-cmds, findutils, com.a3tweaks.flipswitch, libfragmentzip, gawk, gettext, git, gcrypt, libgmp10, gnupg, libgpg-error, gnutls, grep, gzip, htop, com.chpwn.iconsupport, com.jcoz00.jcoz00lib, net.angelxwind.karenlocalizer, net.angelxwind.karenprefs, libksba, less, net.limneos.libbulletin, org.thebigboss.libcolorpicker, jp.ashikase.libcrashreport, com.creaturesurvive.libcscolorpicker, libevent, libidn2, libirecovery, libnghttp2, jp.ashikase.libpackageinfo, libplist, com.spark.libsparkapplist, libssh2, com.modmyi.libswift4, jp.ashikase.libsymbolicate, libtasn1, libunistring, libzip, ldid, com.linusyang.localeutf8, lz4, lzma, make, nano, netcat, nettle, ncurses5-libs, ncurses, npth, com.conradkramer.open, openssh, libssl1.0, p11-kit, perl, preferenceloader, profile.d, readline, com.jcoz00.respring, com.rpetrich.rocketbootstrap, ruby, sed, shell-cmds, com.saurik.substrate.safemode, sudo, system-cmds, tar, jp.ashikase.techsupport, top, tsschecker, unrar, unzip, wget, expat, xz, zip, p7zip, com.mpg13.flashback, com.creaturecoding.crux, adv-cmds, basic-cmds, patch, network-cmds, iokittools, developer-cmds, screen, rsync, inetutils, lsof, vim, socat, com.autopear.installipa, bootstrap-cmds, syslogcmdline, com.ericasadun.utilities, com.innoying.sbutils, com.eswick.ondeviceconsole, org.thebigboss.cutils, xar, libxml2, com.thireus.untrustedhostsblocker9, net.angelxwind.appsyncunified
 Architecture: iphoneos-arm
 Filename: Files//System/RecommendedTools/com.jcoz00.recommendedtools_2.0_iphoneos-arm.deb
-Size: 1792
-MD5sum: 134bef6a52dd9ce1ebbf2636cf3ee3bc
+Size: 1790
+MD5sum: 2f599bd8fb605f064497ee4c36f65fab
 Description: My recommended tools. This installs a ton of dependencies that various packages use. Just install, sit back, and watch the beautiful scrolling white text flow across your screen.
 Name: Recommended Tools
 Author: jcoz00 <jamescozzi00@gmail.com>
@@ -44,11 +44,11 @@ Package: com.jcoz00.recommendedtweaks
 Version: 1.0
 Section: Tweaks
 Maintainer: jcoz00 <jamescozzi00@gmail.com>
-Depends: libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.ninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, net.tateu.calldismiss, com.jcoz00.jcoz00lib
+Depends: libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.xninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, net.tateu.calldismiss, com.jcoz00.jcoz00lib
 Architecture: iphoneos-arm
 Filename: Files//Tweaks/RecommendedTweaks/com.jcoz00.recommendedtweaks_1.0_iphoneos-arm.deb
-Size: 1166
-MD5sum: a2ef0de01bcfe3c4d5b29174b2053cec
+Size: 1974
+MD5sum: 2923eef55a7b29548bf5257d5721e956
 Description: My recommended tweaks.
 Name: Recommended Tweaks
 Author: jcoz00 <jamescozzi00@gmail.com>
@@ -58,11 +58,11 @@ Package: com.jcoz00.recommendedtweaksipx
 Version: 1.0
 Section: Tweaks
 Maintainer: jcoz00 <jamescozzi00@gmail.com>
-Depends: libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.ninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, com.cpdigitaldarkroom.barmoji, net.tateu.calldismiss, com.spark.nomoresmallapps, com.gilshahar7.pearlretry, com.dunkston.statusdnd, com.jcoz00.jcoz00lib
+Depends: libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.xninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, com.cpdigitaldarkroom.barmoji, net.tateu.calldismiss, com.spark.nomoresmallapps, com.gilshahar7.pearlretry, com.dunkston.statusdnd, com.jcoz00.jcoz00lib
 Architecture: iphoneos-arm
 Filename: Files//Tweaks/RecommendedTweaksiPhoneX/com.jcoz00.recommendedtweaksipx_1.0_iphoneos-arm.deb
-Size: 1242
-MD5sum: b0572127cd123505f1e6c7797e2a7e77
+Size: 2080
+MD5sum: 01cf94f29130d120ec590d5360aca378
 Description: My recommended tweaks for iPhone X.
 Name: Recommended Tweaks (iPhone X)
 Author: jcoz00 <jamescozzi00@gmail.com>
