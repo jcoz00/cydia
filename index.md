@@ -5,32 +5,22 @@ title: Repo
 
 Welcome to my projects page! Feel free to explore!
 
-### [Cydia APT Repository]({{ site.baseurl }}/repo)
+### [jcoz00Lib]({{ site.baseurl }}/repo/depictions/?p=com.jcoz00.jcoz00lib)
 
-My Cydia APT repository for Jailbroken iOS.
+My hand-coded library for my own development/organization.
 
-### [Ball00n Installer]({{ site.baseurl }}/ball00n)
+### [Recommended Tools]({{ site.baseurl }}/repo/depictions/?p=com.jcoz00.recommendedtools)
 
-The bridge between Cydia and the App Store for non-Jailbroken iOS.
+My recommended tools.
 
-### [Ball00n Hack]({{ site.baseurl }}/ball00n-hack)
+### [Recommended Tweaks]({{ site.baseurl }}/repo/depictions/?p=com.jcoz00.recommendedtweaks)
 
-Installs Ball00n on your iOS device.
+My recommended tweaks.
 
-### [Gif Widget]({{ site.baseurl }}/gif-widget)
+### [Recommended Utilities]({{ site.baseurl }}/repo/depictions/?p=com.jcoz00.recommendedutilities)
 
-Gifs in your notification center! (In Progress)
+My recommended utilities.
 
-### [Grossinator](jcoz00.github.io/grossinator)
+### [Respring]({{ site.baseurl }}/repo/depictions/?p=com.jcoz00.respring)
 
-The Grossinator on your iOS device! (In Progress)
-
-### [Adobe Creative Cloud Disconnect]({{ site.baseurl }}/accd)
-
-A .framework file that blocks connections to Adobe to let you use your Creative Cloud apps freely!
-
-### Games
-
-[Minecraft](http://jcoz00.github.io/minecraft)
-
-[GreenBalloon Showdown!](http://greenballoon.psim.us)
+Easily respring your device from the command line!
