@@ -3,7 +3,7 @@ layout: page
 title: Cydia APT Repository
 ---
 
-Welcome to my projects page! Feel free to explore!
+### [Click here to add my repository to Cydia.](cydia://url/https://cydia.saurik.com/api/share#?source=https://jcoz00.github.io/repo/)
 
 ### [jcoz00Lib]({{ site.baseurl }}/repo/depictions/?p=com.jcoz00.jcoz00lib)
 
