@@ -96,6 +96,20 @@ Name: Respring
 Author: James Cozzi <jamescozzi00@gmail.com>
 Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.respring
 
+Package: com.jcoz00.xdotool
+Version: 3.20160805.1
+Section: X Window
+Maintainer: James Cozzi <jamescozzi00@gmail.com>
+Depends: com.jcoz00.jcoz00lib, x11
+Architecture: iphoneos-arm
+Filename: Files//XWindow/com.jcoz00.xdotool_iphoneos-arm.deb
+Size: 30794
+MD5sum: 508e9752896de28ea882975f35b6c0ca
+Description: Fake keyboard/mouse input, window management, and more
+Name: xdotool
+Author: Jordan Sissel
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.xdotool
+
 Package: com.julioverne.repos
 Version: 0-1
 Section: Repositories
