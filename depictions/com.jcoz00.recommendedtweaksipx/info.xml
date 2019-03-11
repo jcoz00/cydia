@@ -1,0 +1,19 @@
+<package>
+	<id>com.jcoz00.recommendedtweaksipx</id>
+	<name>jcoz00's Recommended Tweaks (iPhone X)</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>libactivator, com.skitty.dune, com.chewmieser.freefall, com.julioverne.gravity, com.smokin1337.hiddenalbumlock, io.ominousness.mitsuhaxi, com.hidan.morerecentsongsplz, com.sharedroutine.skylerk99.palbreak, com.ryst.portraitlock, com.ichitaso.powerselector11, net.angelxwind.preferenceorganizer2, com.spark.snowboard, org.thebigboss.swipeformore, com.packetfahrer.swipetodeletecontact, xyz.xninja.systeminfo, com.sharedroutine.tactful, com.justinpetkovic.youtubetools, net.tateu.calldismiss, com.jcoz00.jcoz00lib</package>
+	</dependencies>
+	<descriptionlist>
+		<description>My recommended tweaks for iPhone X.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+</package>
