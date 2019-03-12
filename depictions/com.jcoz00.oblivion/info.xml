@@ -1,0 +1,35 @@
+<package>
+	<id>com.jcoz00.oblivion</id>
+	<name>Oblivion</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Beauty, in it's simplest form.</shortDescription>
+	<dependencies>
+		<package>Oblivion</package>
+	</dependencies>
+	<descriptionlist>
+		<description>My custom setup, Oblivion. (FlashBack Addon) Unsure how to apply? Click the link at the bottom for directions!</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>IMG_4806.PNG</image>
+		</screenshot>		
+		<screenshot>
+			<image>IMG_4807.PNG</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>How to Apply FlashBack Addons</name>
+			<url>https://jcoz00.github.io/</url>
+			<iconclass>glyphicon glyphicon-info-sign</iconclass>
+		</link>
+	</links>
+</package>
