@@ -28,27 +28,13 @@ Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.neofetch
 
 Package: com.jcoz00.oblivion
 Version: 1.0
-Section: Themes
+Section: Addons (FlashBack)
 Maintainer: James Cozzi <jamescozzi00@gmail.com>
-Depends: com.lnx.aerify, com.hackyouriphone.colorflow4, com.skitty.dune, com.repo.xarold.com.eclipse12, com.muirey03.labelhider, com.macciti.lotus, io.ominousness.mitsuhaxi, com.tonycraft.nonewmark8, me.nepeta.notifica, com.shiftcmdk.pencilchargingindicator, com.ryst.shypagedots, com.spark.snowboard, com.mpg13.FlashBack, com.jcoz00.jcoz00lib
+Depends: com.lnx.aerify, com.hackyouriphone.colorflow4, com.skitty.dune, com.repo.xarold.com.eclipse12, com.muirey03.labelhider, com.macciti.lotus, io.ominousness.mitsuhaxi, com.tonykraft.nonewmark8, me.nepeta.notifica, com.shiftcmdk.pencilchargingindicator, com.ryst.shypagedots, com.spark.snowboard, com.mpg13.FlashBack, com.jcoz00.jcoz00lib, com.repo.xarold.com.jellyfishcrack, com.repo.xarold.com.veexillum
 Architecture: iphoneos-arm
-Filename: Files//Themes/Oblivion/com.jcoz00.oblivion_iphoneos-arm.deb
-Size: 11783638
-MD5sum: c3162d7725e7c6050cea8a5f769ce3c9
-Description: My custom setup, Oblivion. (FlashBack Addon)
-Name: Oblivion
-Author: James Cozzi <jamescozzi00@gmail.com>
-Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.oblivion
-
-Package: com.jcoz00.obliviontest
-Version: 1.0
-Section: Themes
-Maintainer: James Cozzi <jamescozzi00@gmail.com>
-Depends: com.lnx.aerify, com.muirey03.labelhider, com.macciti.lotus, com.tonykraft.nonewmark8, com.ryst.shypagedots, com.spark.snowboard, com.jcoz00.jcoz00lib
-Architecture: iphoneos-arm
-Filename: Files//Themes/Otest/com.jcoz00.obliviontest2_iphoneos-arm.deb
-Size: 11783576
-MD5sum: e011b6b8efaf2325964bd4096c9bd15b
+Filename: Files//AddonsFlashBack/Oblivion/com.jcoz00.oblivion_iphoneos-arm.deb
+Size: 11780704
+MD5sum: 37fd4d087a15494628e99d904af4380a
 Description: My custom setup, Oblivion. (FlashBack Addon)
 Name: Oblivion
 Author: James Cozzi <jamescozzi00@gmail.com>
@@ -123,20 +109,6 @@ Description: Easily respring your device from the command line! Just type "respr
 Name: Respring
 Author: James Cozzi <jamescozzi00@gmail.com>
 Depiction: http://jcoz00.github.io/repo/depictions/?p=com.jcoz00.respring
-
-Package: com.jcoz00.xdotool
-Version: 3.20160805.1
-Section: X Window
-Maintainer: James Cozzi <jamescozzi00@gmail.com>
-Depends: com.jcoz00.jcoz00lib, x11
-Architecture: iphoneos-arm
-Filename: Files//XWindow/com.jcoz00.xdotool_iphoneos-arm.deb
-Size: 30794
-MD5sum: 508e9752896de28ea882975f35b6c0ca
-Description: Fake keyboard/mouse input, window management, and more
-Name: xdotool
-Author: Jordan Sissel
-Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.xdotool
 
 Package: com.julioverne.repos
 Version: 0-1
