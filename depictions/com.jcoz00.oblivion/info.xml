@@ -9,7 +9,22 @@
 	</compatibility>
 	<shortDescription>Beauty, in it's simplest form.</shortDescription>
 	<dependencies>
-		<package>Oblivion</package>
+		<package>FlashBack</package>
+		<package>Lotus</package>
+		<package>Veexillum</package>
+		<package>Aerify</package>
+		<package>Colorflow 4</package>
+		<package>MitsuhaXI</package>
+		<package>Dune</package>
+		<package>Eclipse 12</package>
+		<package>Jellyfish</package>
+		<package>LabelHider</package>
+		<package>Notifica</package>
+		<package>NoNewMark8</package>
+		<package>PencilChargingIndicator</package>
+		<package>jcoz00Lib</package>
+		<package>SnowBoard</package>
+		<package>Shy Page Dots</package>
 	</dependencies>
 	<descriptionlist>
 		<description>My custom setup, Oblivion. (FlashBack Addon) Unsure how to apply? Click the link at the bottom for directions!</description>
