@@ -298,8 +298,8 @@ Section: Repositories
 Maintainer: Skyler Kansala
 Architecture: iphoneos-arm
 Filename: Files//Repositories/skylerk99/skylerk99.deb
-Size: 818
-MD5sum: 93eb0f069bf7d7eaaa51d745054041cb
+Size: 812
+MD5sum: dc1e04bfd1189c2a4ac55f3b387f5be9
 Description: Skylerk99’s repo
 Name: Skylerk99’s repo
 Author: Skyler Kansala
