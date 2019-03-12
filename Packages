@@ -47,8 +47,8 @@ Maintainer: James Cozzi <jamescozzi00@gmail.com>
 Depends: com.lnx.aerify, com.muirey03.labelhider, com.macciti.lotus, com.tonykraft.nonewmark8, com.ryst.shypagedots, com.spark.snowboard, com.jcoz00.jcoz00lib
 Architecture: iphoneos-arm
 Filename: Files//Themes/Otest/com.jcoz00.obliviontest2_iphoneos-arm.deb
-Size: 11783574
-MD5sum: 109b824ecfd44ca06c1f3e9afb19a968
+Size: 11783578
+MD5sum: 3c003bc5cc6d952a27d0ad62776499c3
 Description: My custom setup, Oblivion. (FlashBack Addon)
 Name: Oblivion
 Author: James Cozzi <jamescozzi00@gmail.com>
