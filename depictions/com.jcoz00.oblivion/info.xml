@@ -44,7 +44,7 @@
 		<link>
 			<name>How to Apply</name>
 			<url>https://jcoz00.github.io/flashbackaddons</url>
-			<iconclass>glyphicon glyphicon-info-sign</iconclass>
+			<iconclass>fa fa-info-sign</iconclass>
 		</link>
 	</links>
 </package>
