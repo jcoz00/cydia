@@ -42,9 +42,9 @@
 	</changelog>
 	<links>
 		<link>
-			<name>How to Apply</name>
+			<name> How to Apply</name>
 			<url>https://jcoz00.github.io/flashbackaddons</url>
-			<iconclass>fa fa-info-sign</iconclass>
+			<iconclass>glyphicon glyphicon-info-sign</iconclass>
 		</link>
 	</links>
 </package>
