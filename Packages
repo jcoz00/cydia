@@ -40,6 +40,20 @@ Name: Oblivion
 Author: James Cozzi <jamescozzi00@gmail.com>
 Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.oblivion
 
+Package: com.jcoz00.obliviontest
+Version: 1.0
+Section: Themes
+Maintainer: James Cozzi <jamescozzi00@gmail.com>
+Depends: com.lnx.aerify, com.skitty.dune, com.muirey03.labelhider, com.macciti.lotus, com.tonykraft.nonewmark8, me.nepeta.notifica, com.ryst.shypagedots, com.spark.snowboard, com.mpg13.FlashBack, com.jcoz00.jcoz00lib
+Architecture: iphoneos-arm
+Filename: Files//Themes/Otest/com.jcoz00.obliviontest_iphoneos-arm.deb
+Size: 11783166
+MD5sum: 9aafe7561f7355ea8e2d397f4e957ebb
+Description: My custom setup, Oblivion. (FlashBack Addon)
+Name: Oblivion
+Author: James Cozzi <jamescozzi00@gmail.com>
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.jcoz00.oblivion
+
 Package: com.jcoz00.recommendedtools
 Version: 2.0
 Section: System
