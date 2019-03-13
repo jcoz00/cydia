@@ -1,4 +1,12 @@
 #!/bin/bash
+#         _                  ____  ____ 
+#        (_)________  ____  / __ \/ __ \
+#       / / ___/ __ \/_  / / / / / / / /
+#      / / /__/ /_/ / / /_/ /_/ / /_/ / 
+#   __/ /\___/\____/ /___/\____/\____/  
+#  /___/                                
+#©2017-2019 by James Cozzi All rights reserved
+
 BASEDIR=$(dirname "$0")
 echo Copyright 2017 By James Cozzi \(jcoz00\)
 rm -r $BASEDIR/Packages

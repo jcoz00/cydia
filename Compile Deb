@@ -1,8 +1,14 @@
 #!/bin/bash
+#         _                  ____  ____ 
+#        (_)________  ____  / __ \/ __ \
+#       / / ___/ __ \/_  / / / / / / / /
+#      / / /__/ /_/ / / /_/ /_/ / /_/ / 
+#   __/ /\___/\____/ /___/\____/\____/  
+#  /___/                                
+#©2017-2019 by James Cozzi All rights reserved
 
-echo Copyright 2017 By James Cozzi \(jcoz00\)
-echo Please Put The Path To  Your Uncompiled Folder…
-read uncompiledPath
+echo Please Put The Path To Your Uncompiled Folder…
+read -r uncompiledPath
 echo Removing .DS_Store Files…
 cd $uncompiledPath && find . -name '*.DS_Store' -type f -delete
 sleep 1
