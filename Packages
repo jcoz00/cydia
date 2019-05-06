@@ -4,8 +4,8 @@ Section: Development
 Maintainer: James Cozzi <jamescozzi00@gmail.com>
 Architecture: iphoneos-arm
 Filename: Files//Development/jcoz00Lib/com.jcoz00.jcoz00lib_1.2_iphoneos-arm.deb
-Size: 1990
-MD5sum: e3837ebfae066c24a1eeb66713c63f1c
+Size: 1358
+MD5sum: d9e6fcb68a7e5da4b8ed1152e786f961
 Description: My hand-coded library for my own development/organization. Necessary for most of my packages.
 Name: jcoz00Lib
 Author: James Cozzi <jamescozzi00@gmail.com>
