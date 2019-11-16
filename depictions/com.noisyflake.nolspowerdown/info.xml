@@ -1,0 +1,20 @@
+<package>
+	<id>com.noisyflake.nolspowerdown</id>
+	<name>NoLSPowerDown</name>
+	<version>1.0.3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Prevents shutting down the device on the lockscreen.</shortDescription>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Prevents shutting down the device on the lockscreen. No settings to configure.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Support for iOS 13</change>
+	</changelog>
+</package>

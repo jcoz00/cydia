@@ -4,8 +4,8 @@ Section: Development
 Maintainer: James Cozzi <jamescozzi00@gmail.com>
 Architecture: iphoneos-arm
 Filename: Files//Development/jcoz00Lib/com.jcoz00.jcoz00lib_1.2_iphoneos-arm.deb
-Size: 1358
-MD5sum: d9e6fcb68a7e5da4b8ed1152e786f961
+Size: 1360
+MD5sum: 8503a2908e131463928713c716ab07fa
 Description: My hand-coded library for my own development/organization. Necessary for most of my packages.
 Name: jcoz00Lib
 Author: James Cozzi <jamescozzi00@gmail.com>
@@ -121,6 +121,36 @@ MD5sum: 714665af39cbdea90cc1dc495b9de583
 Description: juilioverne’s repos
 Name: juilioverne’s repos
 Author: juilioverne
+
+Package: com.laxus.candycrush
+Version: 1.161.0
+Section: Tweaks
+Maintainer: iOSGods.com
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files//Tweaks/CandyCrushSagaCheats/com.laxus.candycrush_1.161.0_iphoneos-arm.deb
+Size: 1041776
+Installed-Size: 3592
+MD5sum: ebb2087fbf70959ff3d148149368877c
+Description: Candy Crush Saga iGMM Cheats by Laxus for iOSGods.com!
+Name: Candy Crush Saga Cheats
+Author: Laxus
+Homepage: https://iosgods.com
+
+Package: com.noisyflake.nolspowerdown
+Version: 1.0.3
+Section: Tweaks
+Maintainer: jcoz00
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files//Tweaks/NoLSPowerDown/com.noisyflake.nolspowerdown_1.0.3_iphoneos-arm.deb
+Size: 3740
+Installed-Size: 200
+MD5sum: da978b611b710b284f9678bc9750ae0b
+Description: Prevents shutdown on lockscreen
+Name: NoLSPowerDown
+Author: NoisyFlake
+Depiction: https://jcoz00.github.io/repo/depictions/?p=com.noisyflake.nolspowerdown
 
 Package: creaturesurvive.github.io
 Version: 0-1
