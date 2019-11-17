@@ -5,7 +5,7 @@ title: APT Repository
 
 ****
 
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jcoz00.github.io/repo/" class="button">Add Repo</a>
+<button><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jcoz00.github.io/repo/" class="button"></a>Add Repo></button>
 
 ### [NoLSPowerDown]({{ site.baseurl }}/repo/depictions/?p=com.noisyflake.nolspowerdown)
 
