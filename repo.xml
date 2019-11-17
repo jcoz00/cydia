@@ -3,10 +3,10 @@
 		<link>
 			<name>Reddit</name>
 			<url>https://reddit.com/u/jcoz00</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<iconclass>faR fa-reddit</iconclass>
 		</link>
 		<link>
-			<name>My website</name>
+			<name>My Website</name>
 			<url>https://jcoz00.github.io</url>
 			<iconclass>fa fa-globe</iconclass>
 		</link>
