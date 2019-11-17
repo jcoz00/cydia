@@ -3,7 +3,9 @@ layout: page
 title: APT Repository
 ---
 
-### [Click here to add to your package manager.](cydia://url/https://cydia.saurik.com/api/share#?source=https://jcoz00.github.io/repo/)
+****
+
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://jcoz00.github.io/repo/" class="button">Add Repo</a>
 
 ### [NoLSPowerDown]({{ site.baseurl }}/repo/depictions/?p=com.noisyflake.nolspowerdown)
 
