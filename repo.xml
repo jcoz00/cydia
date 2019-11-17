@@ -1,14 +1,14 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/jcoz00</url>
-			<iconclass>fa fa-twitter</iconclass>
+			<name>Reddit</name>
+			<url>https://reddit.com/u/jcoz00</url>
+			<iconclass>reddit</iconclass>
 		</link>
 		<link>
-			<name>Visit my website</name>
+			<name>My website</name>
 			<url>https://jcoz00.github.io</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>globe</iconclass>
 		</link>
 	</footerlinks>
 </repo>
