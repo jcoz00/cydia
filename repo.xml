@@ -3,12 +3,12 @@
 		<link>
 			<name>Reddit</name>
 			<url>https://reddit.com/u/jcoz00</url>
-			<iconclass>fa-reddit</iconclass>
+			<iconclass>fa fa-reddit</iconclass>
 		</link>
 		<link>
 			<name>My website</name>
 			<url>https://jcoz00.github.io</url>
-			<iconclass>xfa-globe</iconclass>
+			<iconclass>fa fa-globe</iconclass>
 		</link>
 	</footerlinks>
 </repo>
