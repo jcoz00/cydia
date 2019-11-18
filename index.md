@@ -1,6 +1,6 @@
 ---
 layout: page
-title: APT Repository <img src="/images/packagemanagers.png" align="right">
+title: APT Repository
 ---
 
 ****
