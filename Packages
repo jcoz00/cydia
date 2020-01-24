@@ -274,6 +274,20 @@ Description: Chewmieser’s Repo
 Name: Chewmieser’s Repo
 Author: Steven Rolfe
 
+Package: system-memory-reset-fix
+Version: 2.0
+Section: System
+Maintainer: Pwn20wnd
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: Files//System/SystemMemoryResetFix/system-memory-reset-fix_2.0_iphoneos-arm.deb
+Size: 6376
+Installed-Size: 104
+MD5sum: 41f78ac39f387350b2b49f58b7e89cef
+Description: Prevent overnight userspace reboots triggered by mmaintenanced
+Name: System Memory Reset Fix
+Author: Pwn20wnd
+
 Package: tateu.net
 Version: 0-1
 Section: Repositories
